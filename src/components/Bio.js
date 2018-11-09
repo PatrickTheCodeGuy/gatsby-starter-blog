@@ -18,7 +18,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt={`Patrick Thompson`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -27,8 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Patrick Thompson</strong>, a developer with a knack for learning.{' '}
-          <a href="https://twitter.com/yourAverageCoder">
+          Written by <strong>Patrick Thompson</strong>, a developer with a knack
+          for learning.{' '}
+          <a href="https://twitter.com/yourAverageCode">
             You should follow him on Twitter
           </a>
         </p>
