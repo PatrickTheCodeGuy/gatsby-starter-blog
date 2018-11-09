@@ -59,10 +59,13 @@ https://trello.com/c/tqV8JPoS/1-create-user-accounts
 
 ## A Hard-look at Ticket 3
 
-This ticket was the most satisfying to pull in. This is where we finally were able to get that backend fully connected to the Heroku Postgres correctly, as well as made sure that the API endpoints were hitting correctly. [Data from Heroku](./data.png)
+This ticket was the most satisfying to pull in. This is where we finally were able to get that backend fully connected to the Heroku Postgres correctly, as well as made sure that the API endpoints were hitting correctly.
+[Data from Heroku](./data.png)
 
-This point was extremely hard for us because for some reason our seed data was returning error of foreign key constraints, and we could not figure out where in the code we were going wrong. It seemed like everything we did, every article fix we read, got us no closer to fixing the problem then when we started. [Heroku log](./postgres/png)
+This point was extremely hard for us because for some reason our seed data was returning error of foreign key constraints, and we could not figure out where in the code we were going wrong. It seemed like everything we did, every article fix we read, got us no closer to fixing the problem then when we started.
+[Heroku log](./postgres.png)
 
-Finally we discovered the issue was because with postgres, we have to explicitly state what our ids are by defining them in our method brackets, as well as making them our primary keys as well. By doing this, this allowed postgres to go through the migrations properly and let us set our seed data properly. [Knex Code](./knexcode.png)
+Finally we discovered the issue was because with postgres, we have to explicitly state what our ids are by defining them in our method brackets, as well as making them our primary keys as well. By doing this, this allowed postgres to go through the migrations properly and let us set our seed data properly.
+[Knex Code](./knexcode.png)
 
 Now we look ahead to the front end and any other problems we may need to encounter. I hope you guys will follow the journey ahead with em next week!
