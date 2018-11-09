@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
+    title: "Patrick's Lambda Labs Blog",
+    author: 'Patrick Thompson',
+    description: 'A blog to recount my Lambda Labs experience.',
     siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/Lambda-Labs-Blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Patrick's Lambda Labs Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
