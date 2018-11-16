@@ -57,4 +57,6 @@ When we came back from our break, we found a second tutorial that explained a li
 Finally thanks to Keith our PM, we were able to get an amazing tutorial that solved all of our issues, he even went as far as to templete it, then apply it to our already existing code. With a few modifications, I ended up finishing out the redux portion to add them to our database, and voila! We hit our goal for the week!
 ![Tutorial](./week2tut.png)
 
+Finally, on thursday after lunch, I got to practice my first white boarding question with another student. During the second week, we had a zoom meeting with Lambdas career couches, and they discussed how we will be getting a partner every week. With each partner you get a new "white board challenge" and you go back and forth testing the whiteboard problem your partner has for you, and you test your partner with the whiteboard problem you have. I have a video up on Youtube of me doing my first interview question Ring Buffer, you can check that out [here!](https://youtu.be/4vkR6B2uOrY)
+
 We have a week off next week for Thanksgiving break, I look forward to my next blog post after that! Happy Thanksgiving everyone!
