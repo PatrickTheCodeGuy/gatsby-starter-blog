@@ -1,6 +1,6 @@
 ---
-title: Lambda Labs Week 2
-date: '2018-11-15T18:13:37.121Z'
+title: Lambda Labs Week 3
+date: '2018-11-30T18:13:37.121Z'
 ---
 
 ![Lambda Metrics](./week3chart.png)
