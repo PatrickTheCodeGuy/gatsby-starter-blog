@@ -56,6 +56,6 @@ Ticket 2 on the back end is when everything really started to come together. Wit
 Lastly on ticket 2 for our front end, we wrapped up our front end a little, refactored our sign up, sign in and added a landing page per design spec requirements. This wasnt so bad because visually our front end had all the components we needed, we just had to fix around our css.
 ![Homepage](./week3homepage.png)
 
-Last but not least, I did a new whiteboarding question with one of my old PM's before I moved into the Labs portion of Lambda School. You guys can see my butt get kicked [here!](https://youtu.be/4vkR6B2uOrY)
+Last but not least, I did a new whiteboarding question with one of my old PM's before I moved into the Labs portion of Lambda School. You guys can see my butt get kicked [here!](https://youtu.be/Qc762amVSmw)
 
 We have a week off next week for Thanksgiving break, I look forward to my next blog post after that! Happy Thanksgiving everyone!
